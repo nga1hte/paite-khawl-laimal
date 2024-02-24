@@ -183,4 +183,4 @@ The language currently doesn't have loops but can be implemented by using functi
 
 The language is still in its infancy and is experimental at best. A work in progress, much updates await.
 
-> This project is based on the book Writing an Interpreter in Go by Thorsten Ball.
+> This project is based on the book Writing an paite-khawl-laimal in Go by Thorsten Ball.

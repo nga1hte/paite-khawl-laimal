@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/nga1hte/interpreter/ast"
-	"github.com/nga1hte/interpreter/lexer"
-	"github.com/nga1hte/interpreter/token"
+	"github.com/nga1hte/paite-khawl-laimal/ast"
+	"github.com/nga1hte/paite-khawl-laimal/lexer"
+	"github.com/nga1hte/paite-khawl-laimal/token"
 )
 
 type (

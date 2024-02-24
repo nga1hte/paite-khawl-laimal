@@ -3,7 +3,7 @@ package evaluator
 import (
 	"fmt"
 
-	"github.com/nga1hte/interpreter/object"
+	"github.com/nga1hte/paite-khawl-laimal/object"
 )
 
 var builtins = map[string]*object.Builtin{

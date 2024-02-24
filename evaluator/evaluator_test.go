@@ -3,9 +3,9 @@ package evaluator
 import (
 	"testing"
 
-	"github.com/nga1hte/interpreter/lexer"
-	"github.com/nga1hte/interpreter/object"
-	"github.com/nga1hte/interpreter/parser"
+	"github.com/nga1hte/paite-khawl-laimal/lexer"
+	"github.com/nga1hte/paite-khawl-laimal/object"
+	"github.com/nga1hte/paite-khawl-laimal/parser"
 )
 
 func TestEvalIntegerExpression(t *testing.T) {

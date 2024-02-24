@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/nga1hte/interpreter/evaluator"
-	"github.com/nga1hte/interpreter/lexer"
-	"github.com/nga1hte/interpreter/object"
-	"github.com/nga1hte/interpreter/parser"
+	"github.com/nga1hte/paite-khawl-laimal/evaluator"
+	"github.com/nga1hte/paite-khawl-laimal/lexer"
+	"github.com/nga1hte/paite-khawl-laimal/object"
+	"github.com/nga1hte/paite-khawl-laimal/parser"
 )
 
 const PROMPT = ">> "

@@ -3,8 +3,8 @@ package evaluator
 import (
 	"fmt"
 
-	"github.com/nga1hte/interpreter/ast"
-	"github.com/nga1hte/interpreter/object"
+	"github.com/nga1hte/paite-khawl-laimal/ast"
+	"github.com/nga1hte/paite-khawl-laimal/object"
 )
 
 var (

@@ -5,7 +5,7 @@ import (
 
 	"strings"
 
-	"github.com/nga1hte/interpreter/token"
+	"github.com/nga1hte/paite-khawl-laimal/token"
 )
 
 type Node interface {

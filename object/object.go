@@ -6,7 +6,7 @@ import (
 	"hash/fnv"
 	"strings"
 
-	"github.com/nga1hte/interpreter/ast"
+	"github.com/nga1hte/paite-khawl-laimal/ast"
 )
 
 type ObjectType string

@@ -1,8 +1,9 @@
 package ast
 
 import (
-	"github.com/nga1hte/interpreter/token"
 	"testing"
+
+	"github.com/nga1hte/paite-khawl-laimal/token"
 )
 
 func TestString(t *testing.T) {
@@ -18,7 +19,6 @@ func TestString(t *testing.T) {
 					Token: token.Token{Type: token.IDENT, Literal: "mas"},
 					Value: "mas",
 				},
-
 			},
 		},
 	}

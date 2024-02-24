@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/nga1hte/interpreter/repl"
+	"github.com/nga1hte/paite-khawl-laimal/repl"
 )
 
 // const LOGO = `
